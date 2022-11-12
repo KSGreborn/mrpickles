@@ -1,7 +1,7 @@
 {
     
     "ENABLE_Ads":true,
-    "Show_Content":false,
+    "Show_Content":true,
     
     // IronSource units
     
