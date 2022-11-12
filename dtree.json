@@ -53,7 +53,7 @@
 	"popAppName": "install app",
 	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
 	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": false,
+	"popAppIsActive_first": true,
 	"popAppIsActive_browser": true,
 	"Interval_Time":20000, 
   
