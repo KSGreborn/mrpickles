@@ -42,7 +42,7 @@
 	
 	"Quize_Link":"https://www.google.com/",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 	"Click_toShow_Quize": 4,
 
 
