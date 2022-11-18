@@ -1,7 +1,7 @@
 {
     
-    "ENABLE_Ads":true,
-    "Show_Content":true,
+    "ENABLE_Ads":false,
+    "Show_Content":false,
     
     // IronSource units
     
@@ -53,8 +53,8 @@
 	"popAppName": "install app",
 	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
 	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":20000, 
   
 	"isPage1Activate": true,
@@ -90,7 +90,7 @@
 		{
 			"title": "DollarTree",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://www.dollartree.com/"
+			"url": "https://"
 		}
 	
 
