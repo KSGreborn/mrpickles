@@ -59,10 +59,10 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage3Activate": true,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Fashion?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
@@ -73,9 +73,7 @@
 	
 	"isPage6Activate": false,
     "isPage7Activate": false,
-		"isPage8Activate": true,
-	"isPage9Activate": true,
-	"isPage10Activate": true,
+		
 
 	
 	
