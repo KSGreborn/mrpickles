@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":false,
+    "ENABLE_Ads":true,
     "Show_Content":true,
     
     // IronSource units
@@ -30,12 +30,12 @@
 	
 	 // FAN units
 	
-	"FAN_BANNER":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-	"FAN_INTERSTITIAL":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"FAN_BANNER":"506361824870376_506365561536669",
+	"FAN_INTERSTITIAL":"506361824870376_506955494811009",
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 2, 
+	"SwitchAds": 4, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
@@ -60,7 +60,7 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"Do You Like Fashion?",
 	"button1Page4":"yes",
