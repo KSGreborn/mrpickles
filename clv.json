@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":false,
+    "ENABLE_Ads":true,
     "Show_Content":true,
     
     // IronSource units
@@ -30,12 +30,12 @@
 	
 	 // FAN units
 	
-	"FAN_BANNER":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-	"FAN_INTERSTITIAL":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"FAN_BANNER":"1568766020231236_1568767433564428",
+	"FAN_INTERSTITIAL":"1568766020231236_1569571070150731",
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 2, 
+	"SwitchAds": 4, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
@@ -53,14 +53,14 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
 	"Interval_Time":30000, 
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"do you order online regularly?",
 	"button1Page4":"yes",
@@ -72,7 +72,7 @@
 	"button2Page5":"girl",
 	
 	"isPage6Activate": false,
-    "isPage7Activate": false,
+    "isPage7Activate": true,
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
@@ -84,7 +84,7 @@
 		{
 			"title": "culvers",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://"
+			"url": "https://www.culvers.com/"
 		}
 	
 
