@@ -53,26 +53,26 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":30000, 
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage3Activate": true,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Fashion?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
-	"isPage5Activate":true,
+	"isPage5Activate":false,
 		//content Page 5
 	"textPage5":"choose boy or girl",
 	"button1Page5":"boy",
 	"button2Page5":"girl",
 	
-	"isPage6Activate": true,
-    "isPage7Activate": true,
+	"isPage6Activate": false,
+    "isPage7Activate": false,
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
@@ -84,7 +84,7 @@
 		{
 			"title": "primark",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://www.primark.com/"
+			"url": "https://"
 		}
 	
 
