@@ -18,8 +18,8 @@
 	 
 	// Applovin units
 
-	"APPLOVIN_BANNER_ID": "086a5330df501860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
+	"APPLOVIN_BANNER_ID": "bc2492c3eb12a552",
+	"APPLOVIN_INTERSTITIAL_ID": "009625b4fabd948d",
 	
 	 // Unity units
 	
@@ -35,7 +35,7 @@
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 4, 
+	"SwitchAds": 2, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
