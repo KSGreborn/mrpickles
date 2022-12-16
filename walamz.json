@@ -18,8 +18,8 @@
 	 
 	// Applovin units
 
-	"APPLOVIN_BANNER_ID": "086a5330df501860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
+	"APPLOVIN_BANNER_ID": "78b8103be07634d6",
+	"APPLOVIN_INTERSTITIAL_ID": "5fc59fbb0d832f2c",
 	
 	 // Unity units
 	
@@ -35,7 +35,7 @@
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 4, 
+	"SwitchAds": 2, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
@@ -59,7 +59,7 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
@@ -72,7 +72,7 @@
 	"button2Page5":"girl",
 	
 	"isPage6Activate": false,
-    "isPage7Activate": false,
+    "isPage7Activate": true,
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
