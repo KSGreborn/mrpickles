@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":false,
+    "ENABLE_Ads":true,
     "Show_Content":true,
     
     // IronSource units
@@ -18,8 +18,8 @@
 	 
 	// Applovin units
 
-	"APPLOVIN_BANNER_ID": "086a5330df501860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
+	"APPLOVIN_BANNER_ID": "0fabe5dd5044ae12",
+	"APPLOVIN_INTERSTITIAL_ID": "721330e59ba2b393",
 	
 	 // Unity units
 	
@@ -35,7 +35,7 @@
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 4, 
+	"SwitchAds": 2, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
@@ -59,7 +59,7 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"do you order online regularly?",
@@ -84,7 +84,7 @@
 		{
 			"title": "culvers",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://www.culvers.com/"
+			"url": "https://giftcardway.com/"
 		}
 	
 
