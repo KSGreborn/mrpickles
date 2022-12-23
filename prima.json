@@ -35,7 +35,7 @@
 	
     // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
     
-	"SwitchAds": 2, 
+	"SwitchAds": 0, 
 	"MaxClick": 1, // only for admob 
 	
 	// Quize Settings
