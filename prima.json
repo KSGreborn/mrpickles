@@ -72,7 +72,7 @@
 	"button2Page5":"girl",
 	
 	"isPage6Activate": false,
-    "isPage7Activate": true,
+    "isPage7Activate": false,
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
