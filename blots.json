@@ -59,7 +59,7 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": true,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"Do You Like Fashion?",
@@ -72,7 +72,7 @@
 	"button2Page5":"girl",
 	
 	"isPage6Activate": false,
-    "isPage7Activate": true,
+    "isPage7Activate": false,
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
