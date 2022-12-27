@@ -1,7 +1,7 @@
 {
     
-    "ENABLE_Ads":false,
-    "Show_Content":false,
+    "ENABLE_Ads":true,
+    "Show_Content":true,
     
     // IronSource units
     
@@ -53,8 +53,8 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
 	"Interval_Time":30000, 
   
 	"isPage1Activate": true,
@@ -84,7 +84,7 @@
 		{
 			"title": "big lots",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://"
+			"url": "https://giftcardway.com/"
 		}
 	
 
